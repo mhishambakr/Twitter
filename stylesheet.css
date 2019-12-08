@@ -1,0 +1,129 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.left_section {
+    background: url(bg.png);
+    height: 480px;
+    width: 500px;
+    margin-top: -10px;
+    margin-left: -10px;
+    padding-left: 210px;
+    padding-top: 250px;
+    color: white;
+    font-size: 20px;
+}
+
+.line_1 {
+    margin-top: 37px;
+}
+.material-icons {
+    padding-top: 100 px;    
+}
+
+.right_section {
+    margin-top: -690px;
+    margin-left: 870px;
+
+}
+
+.textbox {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.Login_button {
+    border: 1px solid;
+    border-color: rgb(18, 146, 219);
+    background: white;
+    color: rgb(18, 146, 219);
+    padding: 14px 15px 14px 15px;
+    border-radius: 100px;
+}
+
+.Login_button:hover {
+    background: rgb(212, 231, 241);
+    cursor: pointer;
+}
+
+#form_div a{
+    color: rgba(102, 100, 100, 0.473);
+    text-decoration: none;
+}
+
+#form_div a:hover{
+    text-decoration: underline;
+}
+
+#forgot_pass{
+    font-size: medium;
+    margin-left: 215px;
+}
+
+.below_form {
+    margin-top: 100px;
+    margin-left: 90px;
+    
+}
+
+
+
+#see {
+    font-size: xx-large;
+    text-decoration: solid;
+    padding-right: 200px;
+    margin-top: -1px;
+}
+
+#join {
+    font-size: large;
+    margin-top: 50px;
+}
+
+.signup {
+    border: 1px solid;
+    border-color: rgb(29, 161, 243);
+    background: rgb(29, 161, 243);
+    color: white;
+    padding: 8px 142px 8px 142px;
+    border-radius: 1100px;  
+}
+.signup:hover {
+    background: rgb(26, 150, 224);
+    cursor: pointer;
+}
+
+.Login_button_2 {
+    border: 1px solid;
+    border-color: rgb(18, 146, 219);
+    background: white;
+    color: rgb(18, 146, 219);
+    padding: 8px 145px 8px 145px;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+.Login_button_2:hover {
+    background: rgb(212, 231, 241);
+    cursor: pointer;
+}
+footer {
+    
+    background: white;
+    border-top: rgb(235, 235, 235) solid;
+    margin: 200px -8px 0px -8px;
+    padding: 13px 0px 13px 300px;
+    font-size: small;
+    color: rgb(200, 200, 200);
+}
+
+.footer_links {
+    color: rgb(200, 200, 200);
+    text-decoration: none;
+    padding-right: 15px;
+}
+
+.footer_links:hover{
+    text-decoration: underline;
+}
